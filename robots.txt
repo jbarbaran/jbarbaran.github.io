@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jbarbaran.github.io/blog/sitemap.xml
+Sitemap: https://jbarbaran.github.io/sitemap.xml
